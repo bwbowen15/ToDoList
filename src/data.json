@@ -1,0 +1,18 @@
+
+[
+    {
+    "id": 1,
+    "task": "make to-do list",
+    "complete": false
+},
+{
+    "id": 1,
+    "task": "Study for test",
+    "complete": true
+},
+{
+    "id": 1,
+    "task": "Do homework",
+    "complete": true
+}
+]
