@@ -16,7 +16,7 @@ function App() {
     <>
     
     <Header></Header>
-    <Input></Input>
+    <Input setTask={setTask}></Input>
     <TaskList taskList={task}></TaskList>
     
     
